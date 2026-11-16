@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+  "server": 
+    "ip"{:taigaming.aternos.me .ip",
+    "port": 22400,
+    "version": "1.24.1",
     "try-creative": false
   },
   "position": {
